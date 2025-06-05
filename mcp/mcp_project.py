@@ -1,4 +1,4 @@
-# mcp_project.py (continued)
+
 # mcp_project.py
 
 def smart_home_model(query: str, context: dict) -> str:
